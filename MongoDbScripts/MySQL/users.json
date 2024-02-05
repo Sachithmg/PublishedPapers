@@ -1,0 +1,212 @@
+[
+	{
+		"schema" : 1,
+		"first_name" : "John",
+		"middle_name" : "A.",
+		"last_name" : "Doe",
+		"email" : "johndoe@socialmedia.com",
+		"dob" : ISODate("2000-05-15"),
+		"gender" : "M",
+		"password" : "password1",
+		"home_town" : {
+			"city" : "Kandy",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []		
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Jane",
+		"middle_name" : null,
+		"last_name" : "Smith",
+		"email" : "janesmith@socialmedia.com",
+		"dob" : ISODate("1988-09-21"),
+		"gender" : "F",
+		"password" : "password2",
+		"home_town" : {
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Kandy",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "David",
+		"middle_name" : "C.",
+		"last_name" : "Johnson",
+		"email" : "davidjohnson@socialmedia.com",
+		"dob" : ISODate("1992-02-08"),
+		"gender" : "M",
+		"password" : "password3",
+		"home_town" : {
+			"city" : "Galle",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Galle",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Sarah",
+		"middle_name" : "E.",
+		"last_name" : "Wilson",
+		"email" : "sarahwilson@socialmedia.com",
+		"dob" : ISODate("1995-11-30"),
+		"gender" : "F",
+		"password" : "password4",
+		"home_town" : {
+			"city" : "Nuwara Eliya",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Nuwara Eliya",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Michael",
+		"middle_name" : "R.",
+		"last_name" : "Brown",
+		"email" : "michaelbrown@socialmedia.com",
+		"dob" : ISODate("1987-07-18"),
+		"gender" : "M",
+		"password" : "password5",
+		"home_town" : {
+			"city" : "Trincomalee",
+			"state" : "Eastern Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Anuradhapura",
+			"state" : "North Central Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Emily",
+		"middle_name" : "M.",
+		"last_name" : "Taylor",
+		"email" : "emilytaylor@socialmedia.com",
+		"dob" : ISODate("1991-04-03"),
+		"gender" : "F",
+		"password" : "password6",
+		"home_town" : {
+			"city" : "Jaffna",
+			"state" : "Northern Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Bentota",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Daniel",
+		"middle_name" : "J.",
+		"last_name" : "Anderson",
+		"email" : "danielanderson@socialmedia.com",
+		"dob" : ISODate("1989-12-12"),
+		"gender" : "M",
+		"password" : "password7",
+		"home_town" : {
+			"city" : "Bentota",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Jaffna",
+			"state" : "Northern Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Olivia",
+		"middle_name" : "K.",
+		"last_name" : "Miller",
+		"email" : "oliviamiller@socialmedia.com",
+		"dob" : ISODate("1993-06-25"),
+		"gender" : "F",
+		"password" : "password8",
+		"home_town" : {
+			"city" : "Dambulla",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Dambulla",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Thomas",
+		"middle_name" : "L.",
+		"last_name" : "Davis",
+		"email" : "thomasdavis@socialmedia.com",
+		"dob" : ISODate("1994-09-10"),
+		"gender" : "M",
+		"password" : "password9",
+		"home_town" : {
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Kandy",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	},
+	{
+		"schema" : 1,
+		"first_name" : "Sophia",
+		"middle_name" : "N.",
+		"last_name" : "Wilson",
+		"email" : "sophiawilson@socialmedia.com",
+		"dob" : ISODate("2005-03-27"),
+		"gender" : "F",
+		"password" : "password10",
+		"home_town" : {
+			"city" : "Kandy",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"
+		},
+		"lives" : {
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"
+		},
+		"friends" : []
+	}
+]

@@ -1,0 +1,119 @@
+[
+	{
+		"albumID" : 5,
+		"postID" : 5,
+		"name" : "Summer Vacation",
+		"album_date" : "2023-07-10",
+		"album_owner" : "johndoe@socialmedia.com",
+		"topic" : "Amazing sunset",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 6,
+		"postID" : null,
+		"name" : "New Year 2023",
+		"album_date" : "2023-07-10",
+		"album_owner" : "johndoe@socialmedia.com",
+		"topic" : null,
+		"post_date" : null
+	},
+	{
+		"albumID" : 7,
+		"postID" : 6,
+		"name" : "Family Reunion",
+		"album_date" : "2023-07-10",
+		"album_owner" : "janesmith@socialmedia.com",
+		"topic" : "Family gathering",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 8,
+		"postID" : 7,
+		"name" : "Hiking Adventures",
+		"album_date" : "2023-07-10",
+		"album_owner" : "davidjohnson@socialmedia.com",
+		"topic" : "Exploring nature",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 9,
+		"postID" : 8,
+		"name" : "Beach Party",
+		"album_date" : "2023-07-10",
+		"album_owner" : "sarahwilson@socialmedia.com",
+		"topic" : "Fun at the beach",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 10,
+		"postID" : 9,
+		"name" : "Road Trip Memories",
+		"album_date" : "2023-07-10",
+		"album_owner" : "michaelbrown@socialmedia.com",
+		"topic" : "Road trip memories",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 11,
+		"postID" : 10,
+		"name" : "City Exploration",
+		"album_date" : "2023-07-10",
+		"album_owner" : "emilytaylor@socialmedia.com",
+		"topic" : "City skyline",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 12,
+		"postID" : null,
+		"name" : "Friends",
+		"album_date" : "2023-07-10",
+		"album_owner" : "emilytaylor@socialmedia.com",
+		"topic" : null,
+		"post_date" : null
+	},
+	{
+		"albumID" : 13,
+		"postID" : 11,
+		"name" : "Nature Photography",
+		"album_date" : "2023-07-10",
+		"album_owner" : "danielanderson@socialmedia.com",
+		"topic" : "Artistic expressions",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 14,
+		"postID" : 12,
+		"name" : "Festival Highlights",
+		"album_date" : "2023-07-10",
+		"album_owner" : "oliviamiller@socialmedia.com",
+		"topic" : "Festival moments",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 15,
+		"postID" : 13,
+		"name" : "Artistic Creations",
+		"album_date" : "2023-07-10",
+		"album_owner" : "thomasdavis@socialmedia.com",
+		"topic" : "Creative artwork",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 16,
+		"postID" : 14,
+		"name" : "Wedding Memories",
+		"album_date" : "2023-07-10",
+		"album_owner" : "sophiawilson@socialmedia.com",
+		"topic" : "Wedding bliss",
+		"post_date" : "2023-07-10"
+	},
+	{
+		"albumID" : 16,
+		"postID" : 15,
+		"name" : "Wedding Memories",
+		"album_date" : "2023-07-10",
+		"album_owner" : "sophiawilson@socialmedia.com",
+		"topic" : "Wedding",
+		"post_date" : "2023-07-10"
+	}
+]

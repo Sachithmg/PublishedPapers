@@ -1,0 +1,284 @@
+[
+	{
+		"schema" : 1,
+		"name" : "Summer Vacation",
+		"album_date" : ISODate("2023-07-10)",
+		"album_owner" : "johndoe@socialmedia.com",
+		"photos" : [{
+			"caption" : "Summer Vacation Photo",
+		    "city" : "Kandy",
+		    "state" : "Central Province",
+		    "country" : "Sri Lanka"
+		}],
+		"videos" : [],
+		"posts" : [{
+			"topic" : "Amazing sunset",
+		    "post_date" : ISODate("2023-07-10"),
+		    "post_owner" : "johndoe@socialmedia.com", 
+			"comments" : [
+			{"date" : ISODate("2023-07-10"),
+		     "text" : "I wish I could be there!",
+		     "user" : "janesmith@socialmedia.com"},
+			{"date" : ISODate("2023-07-10"),
+		     "text" : "Beautiful photo!",
+		     "user" : "johndoe@socialmedia.com"} 
+			]
+		}]		
+	},
+	{
+		"schema" : 1,
+		"name" : "New Year 2023",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "johndoe@socialmedia.com",
+		"photos" : [
+			{"caption" : "New Year 2023 Photo"}],
+	    "videos" : [],
+		"posts" : []
+	},
+	{
+		"schema" : 1,
+		"name" : "Family Reunion",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "janesmith@socialmedia.com",
+		"photos" : [{
+			"caption" : "Family Reunion Photo",
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Family Reunion Video",
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "Family gathering",
+		    "post_date" : ISODate("2023-07-10"),
+			"post_owner" : "janesmith@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "Great to see everyone together!",
+				"user" : "davidjohnson@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "Such a lovely family photo!",
+				"user" : "sarahwilson@socialmedia.com"}]
+			}]
+	},
+	{
+		"schema" : 1,
+		"name" : "Hiking Adventures",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "davidjohnson@socialmedia.com",
+		"photos" : [{
+			"caption" : "Hiking Adventures Photo",
+			"city" : "Galle",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Hiking Adventures Video",
+			"city" : "Galle",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "Exploring nature",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "davidjohnson@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "Nature at its finest!",
+				"user" : "emilytaylor@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "What a breathtaking view!",
+				"user" : "michaelbrown@socialmedia.com"}]
+		}]
+	},
+	{
+		"schema" : 1,
+		"name" : "Beach Party",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "sarahwilson@socialmedia.com",
+		"photos" : [{
+			"caption" : "Beach Party Photo",
+			"city" : "Nuwara Eliya",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Beach Party Video",
+			"city" : "Nuwara Eliya",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "Fun at the beach",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "sarahwilson@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "Wish I could join you guys!",
+				"user" : "danielanderson@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "Looks like a great time!",
+				"user" : "oliviamiller@socialmedia.com"}]
+		}]
+	},
+	{
+		"schema" : 1,
+		"name" : "Road Trip Memories",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "michaelbrown@socialmedia.com",
+		"photos" : [{
+			"caption" : "Road Trip Memories Photo",
+			"city" : "Trincomalee",
+			"state" : "Eastern Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Road Trip Memories Video",
+			"city" : "Trincomalee",
+			"state" : "Eastern Province",
+			"country" : "Sri Lanka"}], 
+		"posts" : [{
+			"topic" : "Road trip memories",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "michaelbrown@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "Road trips are the best!",
+				"user" : "sophiawilson@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "Such fond memories!",
+				"user" : "thomasdavis@socialmedia.com"}]
+		}]
+	},
+	{
+		"schema" : 1,
+		"name" : "City Exploration",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "emilytaylor@socialmedia.com",
+		"photos" : [{
+			"caption" : "City Exploration Photo",
+			"city" : "Gampaha",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "City Exploration Video",
+			"city" : "Gampaha",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "City skyline",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "emilytaylor@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "I love the city lights!",
+				"user" : "janesmith@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "What a stunning cityscape!",
+				"user" : "johndoe@socialmedia.com"}]
+		}]	
+	},
+	{
+		"schema" : 1,
+		"name" : "Friends",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "emilytaylor@socialmedia.com",
+		"photos" : [{
+			"caption" : "Friends Photo",
+			"city" : "Jaffna",
+			"state" : "Northern Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Friends Video",
+			"city" : "Jaffna",
+			"state" : "Northern Province",
+			"country" : "Sri Lanka"}],
+		"posts" : []
+	},
+	{
+		"schema" : 1,
+		"name" : "Nature Photography",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "danielanderson@socialmedia.com",
+		"photos" : [{
+			"caption" : "Nature Photography Photo",
+			"city" : "Bentota",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Nature Photography Video",
+			"city" : "Bentota",
+			"state" : "Southern Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "Artistic expressions",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "danielanderson@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "Beautiful artwork!",
+				"user" : "davidjohnson@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "You're so talented!",
+				"user" : "sarahwilson@socialmedia.com"}]
+		}]
+
+	},
+	{
+		"schema" : 1,
+		"name" : "Festival Highlights",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "oliviamiller@socialmedia.com",
+		"photos" : [{
+			"caption" : "Festival Highlights Photo",
+			"city" : "Dambulla",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"}],
+		"videos" : [{
+			"caption" : "Festival Highlights Video",
+			"city" : "Dambulla",
+			"state" : "Central Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "Festival moments",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "oliviamiller@socialmedia.com",
+			"comments" : [{
+				"date" : ISODate("2023-07-10"),
+				"text" : "Such a fun event!",
+				"user" : "emilytaylor@socialmedia.com"},
+				{"date" : ISODate("2023-07-10"),
+				"text" : "I miss those festive vibes!",
+				"user" : "michaelbrown@socialmedia.com"}]
+		}]
+	},
+	{
+		"schema" : 1,
+		"name" : "Artistic Creations",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "thomasdavis@socialmedia.com",
+		"photos" : [],
+		"videos" : [{
+			"caption" : "Artistic Creations Video",
+			"city" : "Colombo",
+			"state" : "Western Province",
+			"country" : "Sri Lanka"}],
+		"posts" : [{
+			"topic" : "Creative artwork",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "thomasdavis@socialmedia.com"
+		}]
+	},
+	{
+		"schema" : 1,
+		"name" : "Wedding Memories",
+		"album_date" : ISODate("2023-07-10"),
+		"album_owner" : "sophiawilson@socialmedia.com",
+		"photos" : [],
+		"videos" : [],
+		"posts" : [{
+			"topic" : "Wedding bliss",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "sophiawilson@socialmedia.com"},
+			{"topic" : "Wedding",
+			"post_date" : ISODate("2023-07-10"),
+			"post_owner" : "johndoe@socialmedia.com"}]
+	}
+]

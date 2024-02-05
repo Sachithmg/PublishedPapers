@@ -1,0 +1,91 @@
+[
+,
+,
+,
+,
+,
+,
+,
+,
+,
+	{
+		"albumID" : 11,
+		"caption" : "City Exploration Photo",
+		"city" : "Gampaha",
+		"state" : "Western Province",
+		"country" : "Sri Lanka",
+		"type" : "photo"
+	},
+	{
+		"albumID" : 11,
+		"caption" : "City Exploration Video",
+		"city" : "Gampaha",
+		"state" : "Western Province",
+		"country" : "Sri Lanka",
+		"type" : "video"
+	},
+	{
+		"albumID" : 12,
+		"caption" : "Friends Photo",
+		"city" : "Jaffna",
+		"state" : "Northern Province",
+		"country" : "Sri Lanka",
+		"type" : "photo"
+	},
+	{
+		"albumID" : 12,
+		"caption" : "Friends Video",
+		"city" : "Jaffna",
+		"state" : "Northern Province",
+		"country" : "Sri Lanka",
+		"type" : "video"
+	},
+	{
+		"albumID" : 13,
+		"caption" : "Nature Photography Photo",
+		"city" : "Bentota",
+		"state" : "Southern Province",
+		"country" : "Sri Lanka",
+		"type" : "photo"
+	},
+	{
+		"albumID" : 13,
+		"caption" : "Nature Photography Video",
+		"city" : "Bentota",
+		"state" : "Southern Province",
+		"country" : "Sri Lanka",
+		"type" : "video"
+	},
+	{
+		"albumID" : 14,
+		"caption" : "Festival Highlights Photo",
+		"city" : "Dambulla",
+		"state" : "Central Province",
+		"country" : "Sri Lanka",
+		"type" : "photo"
+	},
+	{
+		"albumID" : 14,
+		"caption" : "Festival Highlights Video",
+		"city" : "Dambulla",
+		"state" : "Central Province",
+		"country" : "Sri Lanka",
+		"type" : "video"
+	},
+	{
+		"albumID" : 15,
+		"caption" : "Artistic Creations Video",
+		"city" : "Colombo",
+		"state" : "Western Province",
+		"country" : "Sri Lanka",
+		"type" : "video"
+	},
+	{
+		"albumID" : 16,
+		"caption" : "Wedding Memories Video",
+		"city" : null,
+		"state" : null,
+		"country" : null,
+		"type" : "video"
+	}
+]
